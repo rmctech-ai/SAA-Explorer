@@ -1,4 +1,4 @@
-# 🧭 SAA Explorer — Become an AWS Solutions Architect: SAA-C03 and the roadmap to master architect
+# 🎓 SAA Explorer — Become an AWS Solutions Architect: SAA-C03 and the roadmap to master architect
 
 An interactive, step-by-step course for the **AWS Certified Solutions Architect – Associate (SAA-C03)** and beyond. It starts with what a Solutions Architect really does and a **complete roadmap to master Solutions Architect** (certifications, soft skills, discovery, Architecture Decision Records, portfolio), then walks all four exam domains: **Secure** (multi-account identity, secure networking, data protection), **Resilient** (decoupling, high availability, disaster recovery), **High-Performing** (compute, storage, databases and caching, edge and hybrid networking, analytics) and **Cost-Optimized**, and finishes with exam technique, migration and a capstone design review. Every lesson animates the architecture, with analogies, memory hooks, trigger words, quizzes, and an **Architect Lab** where you describe a design in YAML and fix it like an exam grader would.
 
@@ -37,7 +37,7 @@ GitHub → **Settings → Pages → Deploy from a branch → `main` / root → S
 | **Lessons** (left) | 16 lessons grouped by track. Click to expand steps. Dots show progress. |
 | **Diagram** tab | Animated scene for every step. |
 | **$_ AWS CLI** tab | Types out real commands/code for the step with realistic output. |
-| **🧭 ARCHITECT LAB** tab | **Architect Lab**: describe a design in YAML (40 component types such as `alb`, `nlb`, `aurora`, `dynamodb`, `sqs`, `kinesis`, `efs`, `fsx`, `vpce`, `transitgateway`, `directconnect`, `cognito`, `redshift`), add workload requirements (`ordering`, `rto_minutes`, `on_prem`, `shared_files`, `protocol`, `analytics`…) and press RUN REVIEW. The lab grades it like an SAA exam grader plus a Well-Architected reviewer: high, medium and low risk issues, a fix for each, and a score per pillar. Each challenge is an exam-style scenario. |
+| **📐 ARCHITECT LAB** tab | **Architect Lab**: describe a design in YAML (40 component types such as `alb`, `nlb`, `aurora`, `dynamodb`, `sqs`, `kinesis`, `efs`, `fsx`, `vpce`, `transitgateway`, `directconnect`, `cognito`, `redshift`), add workload requirements (`ordering`, `rto_minutes`, `on_prem`, `shared_files`, `protocol`, `analytics`…) and press RUN REVIEW. The lab grades it like an SAA exam grader plus a Well-Architected reviewer: high, medium and low risk issues, a fix for each, and a score per pillar. Each challenge is an exam-style scenario. |
 | **Step Details** (right) | Explanation, **Analogy**, **Memory Hook**, **Trigger Words**, real-world notes, warnings. |
 | **Architecture Flow** (bottom) | Log of every command so far with type, output and status. |
 | **XP & levels** | Earn XP for steps, lessons, quizzes and challenges. Saved in your browser. |
